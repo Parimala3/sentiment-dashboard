@@ -20,7 +20,7 @@ An interactive Streamlit-based dashboard for analyzing sentiment from social med
 
 ## 🚀 Live Demo
 
-Try it now: [https://yourusername.streamlit.app](https://yourusername.streamlit.app)
+Try it now: [https://Parimala3.streamlit.app](https://yourusername.streamlit.app)
 
 ---
 
