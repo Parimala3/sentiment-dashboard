@@ -18,9 +18,11 @@ An interactive Streamlit-based dashboard for analyzing sentiment from social med
 
 ---
 
+
 ## 🚀 Live Demo
 
-Try it now: [https://Parimala3.streamlit.app](https://yourusername.streamlit.app)
+
+Try it now: [https://parimala3-sentiment-dashboard.streamlit.app](https://parimala3-sentiment-dashboard.streamlit.app)
 
 ---
 
@@ -57,6 +59,7 @@ Try it now: [https://Parimala3.streamlit.app](https://yourusername.streamlit.app
 
 ```bash
 git clone https://github.com/yourusername/sentiment-dashboard.git
+git clone https://github.com/Parimala3/sentiment-dashboard.git
 cd sentiment-dashboard
 pip install -r requirements.txt
 streamlit run app.py
